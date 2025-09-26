@@ -1,0 +1,39 @@
+# Phase 7 – Reports & Analytics
+
+## Objective
+To create useful reports and dashboards that provide insights into EV charging station performance, utilization, and revenue.
+
+---
+
+## Steps
+
+1. **Navigate to Reports**
+   - Go to App Launcher → Search for "Reports" → New Report.
+
+2. **Create Revenue Report by Station**
+   - Report Type: Bookings with Charging Station.
+   - Group by: Charging Station Name.
+   - Add field: Booking Amount / Revenue.
+   - Summarize values.
+   - Save as: "Revenue by Charging Station".
+
+3. **Create Utilization Report**
+   - Report Type: Charger or Booking.
+   - Group by: Charger / Station.
+   - Add field: Booking Status (In Use, Available).
+   - Show percentage of time utilized.
+   - Save as: "Station Utilization Report".
+
+4. **Email Report (Optional)**
+   - Use Salesforce report subscriptions.
+   - Choose frequency (Daily/Weekly).
+   - Recipients: Admin or managers.
+
+---
+
+## Deliverables
+- 📊 "Revenue by Charging Station" report.
+- 📊 "Station Utilization" report.
+- Saved in a folder named **EV Reports**.
+
+---
